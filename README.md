@@ -98,24 +98,3 @@ Finished and released on 5 October 2021.
 
 Menu background inspired by [this flat landscape
 vector](https://www.vectorstock.com/royalty-free-vector/flat-simple-landscape-background-vector-10035182).
-
-## Running it locally
-
-Clone the repository and open `index.html`. There is no build step and no
-dependencies.
-
-Some browsers restrict what a page can do when opened directly from disk. If
-anything misbehaves, serve the folder instead:
-
-```
-python3 -m http.server 8000
-```
-
-then visit `http://localhost:8000`.
-
-## Licence
-
-Add one if you want people to reuse the code. MIT is the usual choice for a
-game you are happy to have copied; leaving no licence file out means all
-rights reserved, which is the right call if you would rather people looked
-than took.
