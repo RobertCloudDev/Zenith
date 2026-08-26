@@ -6,7 +6,7 @@ day it was finished. Every sprite and backdrop — the yetis, the signposts, the
 dusk-lit peaks, the cave — is drawn in code at load time and cached to an
 offscreen buffer. There are no image files anywhere in this project.
 
-**[Play it here](#)** — replace this link with your GitHub Pages URL.
+**[Play it here](https://robertclouddev.github.io/Zenith/)**
 
 |  |  |
 | :---: | :---: |
